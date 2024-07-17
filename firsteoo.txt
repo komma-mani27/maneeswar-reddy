@@ -1,0 +1,7 @@
+str=int(input(''))
+new_string=str(str)
+c0ndition=new_string % 2==0
+if c0ndition:
+    print("first letter is even")
+else:
+    print("first letter is odd")
